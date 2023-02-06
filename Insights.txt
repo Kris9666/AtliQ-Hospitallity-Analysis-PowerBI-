@@ -1,0 +1,16 @@
+Some important insights from this Dashboard - 
+
+1. Mumbai has generated the highest revenue(669M) with the total of 39% followed by 
+   Bangalore, Hyderabad and Delhi.
+
+2. AtliQ Exotica performs better compared to all 7 type of properties with 320M
+   revenue with total of 19%, having 57% occupancy and cancellation rate of 24.4%.
+
+3. Elite room class has the highest revenue of 560M with the total of 33% followed by
+   Premium, Presidential and Standard.
+
+4. AtliQ Bay has the highest occupancy of 62%.
+
+5. Week 24 recorded the highest revenue among all, which is 139.6M.
+
+6. Most of the bookings are coming from the others platforms which is about 41%.
