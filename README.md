@@ -5,6 +5,8 @@ Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-ch
 
 Link to the [Interactive Dashboard](https://www.novypro.com/project/atliqhospitalityrevenue)
 
+Link to the [Linked In Post](https://www.linkedin.com/posts/krishna-agrawal-018885203_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-7028787126691385345-HKrr?utm_source=share&utm_medium=member_desktop)
+
 ## Challenge
 Provide insights to the revenue team in the hospitality domain.
 ##### Domain: Hospitality 
@@ -37,6 +39,11 @@ from the download section.
 
 # View 
 ![weekly_view](https://user-images.githubusercontent.com/82700277/217052604-d987f0da-6e14-41cc-9b9d-34234309b041.png)
+
+# Things learnt from this project
+ - Learnt about the Hospitality bussiness domain knowledge with this dataset.
+ - Learnt to build a good and interactive powerbi dashboard.
+ - Learnt about the visualization and presentation of the data charts.
 
 # Some Important Insights from the Dashboard
  - Mumbai has generated the highest revenue(669M) with the total of 39% followed by Bangalore, Hyderabad and Delhi.
